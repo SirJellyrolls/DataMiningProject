@@ -11,7 +11,7 @@ def cleanTitles():
      nextFlag=False
      lf=False
      for line in fo:
-        #these flags are used to 
+        #these flags are used to find determine new article entry
         startflag=lineStart.search(line)
         yearFlag=year.search(line)
         if startflag and yearFlag: #if this is a title line we want the info after it  
