@@ -61,7 +61,7 @@ def cleanArticles():
          elif titleFlag and authorFlag and lineFlag and(line.isspace()==False) and notSpecial: #if we went over the title,author info, and new space
             if line.isspace():          #if the newline is also a blank space update
              spacecount=spacecount+1
-            if pmid.search(line) or prev.__contains__("Copyright"): #make sure not a copyright line
+            if pmid.search(line) or prev.__contains__("Copyright") or line.__contains__("Fang EF et al."): #make sure not a copyright line
                 pass
             elif line.__contains__("Comment in") or prev.__contains__("Comment in") : #make sure its not a comment in line
                 pass
