@@ -63,7 +63,7 @@ def cleanArticles():
              spacecount=spacecount+1
             if pmid.search(line) or prev.__contains__("Copyright") or line.__contains__("Fang EF et al."): #make sure not a copyright line
                 pass
-            elif line.__contains__("Comment in") or prev.__contains__("Comment in") : #make sure its not a comment in line
+            elif line.__contains__("Comment in") or prev.__contains__("Comment in") or line.__contains__("Originally published in the Journal of Medical Internet Research") : #make sure its not a comment in line
                 pass
             else:
              #write line if valid line
