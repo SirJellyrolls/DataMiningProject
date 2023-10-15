@@ -76,7 +76,6 @@ CONCLUSIONS: This simple and feasible cognitive impairment prediction model
 could identify community-dwelling elderly people at the greatest 3-year risk for 
 cognitive impairment, which could help community nurses in the early 
 identification of dementia.
-Originally published in the Journal of Medical Internet Research 
 
 Cognitive decline is a gradual neurodegenerative process that is affected by 
 genetic and environmental factors. The doctor-patient relationship in the 
@@ -1235,7 +1234,6 @@ attention. The results further reveal that an urgent need exists to increase
 public knowledge about dementia. Social media platforms potentially could be 
 leveraged for future dementia education interventions to increase dementia 
 awareness and promote positive attitudes.
-Kwok, Bei Wu. Originally published in the Journal of Medical Internet Research 
 
 BACKGROUND: It is important to diagnose depression in Parkinson's disease (DPD) 
 as soon as possible and identify the predictors of depression to improve quality 
@@ -3002,7 +3000,6 @@ deployed in health interventions aimed at improving older adults' well-being by
 promoting self-reflection and suggesting coping strategies to be used in the 
 case of dysfunctional reminiscence cases, which can undermine physical and 
 mental health.
-Originally published in the Journal of Medical Internet Research 
 
 The structure and integrity of the ageing brain is interchangeably linked to 
 physical health, and cardiometabolic risk factors (CMRs) are associated with 
@@ -5425,7 +5422,6 @@ pain-assessing smart home may recognize pain-related behaviors. Utilizing
 clinicians' real-world knowledge when developing pain-assessing machine learning 
 models improves the model's performance. A larger study focusing on pain-related 
 behaviors is warranted to improve and test model performance.
-Diane J Cook. Originally published in the Journal of Medical Internet Research 
 
 BACKGROUND: Machine learning techniques, specifically classification algorithms, 
 may be effective to help understand key health, nutritional, and environmental 
@@ -6394,7 +6390,6 @@ in an online environment. This novel dementia staging algorithm can be used to
 describe dementia stage based on user-reported symptoms. This type of symptom 
 recording offers real-world data that reflect important symptoms in people with 
 dementia.
-Originally published in the Journal of Medical Internet Research 
 
 The microbiota-gut-brain axis is a bidirectional communication system that is 
 poorly understood. Alzheimer's disease (AD), the most common cause of dementia, 
