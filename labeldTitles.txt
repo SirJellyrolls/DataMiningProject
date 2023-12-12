@@ -1,0 +1,1231 @@
+1
+A research agenda for ageing in China in the 21st century (2nd edition): 
+Focusing on basic and translational research, long-term care, policy and social 
+networks.
+2
+A Risk Prediction Model Based on Machine Learning for Cognitive Impairment Among 
+Chinese Community-Dwelling Elderly People With Normal Cognition: Development and 
+Validation Study.
+3
+The paradigm and future value of the metaverse for the intervention of cognitive 
+decline.
+4
+Prediction of disability-free survival in healthy older people.
+5
+Use of machine learning approach to predict depression in the elderly in China: 
+A longitudinal study.
+6
+A combination model of AD biomarkers revealed by machine learning precisely 
+predicts Alzheimer's dementia: China Aging and Neurodegenerative Initiative 
+(CANDI) study.
+7
+Artificial intelligence approaches to predicting and detecting cognitive decline 
+in older adults: A conceptual review.
+8
+[Use AI for Dementia Diagnosis].
+9
+Develop a diagnostic tool for dementia using machine learning and non-imaging 
+features.
+10
+Machine Learning and Prediction in Fetal, Infant, and Toddler Neuroimaging: A 
+Review and Primer.
+11
+Prediction of Incident Dementia Using Patient Temporal Health Status.
+12
+A Machine-Learning-Based Analysis of the Relationships between Loneliness 
+Metrics and Mobility Patterns for Elderly.
+13
+Eye Movements in Neuropsychological Tasks.
+14
+Progression in Neuroimaging of Normal Pressure Hydrocephalus.
+15
+Graph Representation Learning-Based Early Depression Detection Framework in 
+Smart Home Environments.
+16
+Detection of Dementia Signals from Longitudinal Clinical Visits Using One-Class 
+Classification.
+17
+Machine Learning Prediction of Treatment Outcome in Late-Life Depression.
+18
+Early-Stage Alzheimer's Disease Prediction Using Machine Learning Models.
+19
+Machine learning functional impairment classification with electronic health 
+record data.
+20
+36th International Symposium on Intensive Care and Emergency Medicine : 
+Brussels, Belgium. 15-18 March 2016.
+21
+Predicting Cognitive Impairment and Dementia: A Machine Learning Approach.
+22
+Radiomics and Artificial Intelligence for the Diagnosis and Monitoring of 
+Alzheimer's Disease: A Systematic Review of Studies in the Field.
+23
+Technology for Early Detection of Depression and Anxiety in Older People.
+24
+Radiological classification of dementia from anatomical MRI assisted by machine 
+learning-derived maps.
+25
+Utilizing Machine Learning to Recognize Human Activities for Elderly and 
+Homecare.
+26
+Machine learning can predict mild cognitive impairment in Parkinson's disease.
+27
+Evaluation and Analysis of Elderly Mental Health Based on Artificial 
+Intelligence.
+28
+Machine Learning Prediction of Suicide Risk Does Not Identify Patients Without 
+Traditional Risk Factors.
+29
+Cardiometabolic Conditions and All-Cause Dementia Among American Indian and 
+Alaska Native People.
+30
+Speech and language characteristics differentiate Alzheimer's disease and 
+dementia with Lewy bodies.
+31
+Machine learning discovery of longitudinal patterns of depression and suicidal 
+ideation.
+32
+Explainable Fall Risk Prediction in Older Adults Using Gait and Geriatric 
+Assessments.
+33
+Evaluating Voice-Assistant Commands for Dementia Detection.
+34
+The Road to Personalized Medicine in Alzheimer's Disease: The Use of Artificial 
+Intelligence.
+35
+Longitudinal Study-Based Dementia Prediction for Public Health.
+36
+Testamentary capacity assessment in dementia using artificial intelligence: 
+prospects and challenges.
+37
+Vocal pattern detection of depression among older adults.
+38
+Continuous Neurophysiologic Data Accurately Predict Mood and Energy in the 
+Elderly.
+39
+Questionnaire-free machine-learning method to predict depressive symptoms among 
+community-dwelling older adults.
+40
+A hybrid machine learning model of depression estimation in home-based older 
+adults: a 7-year follow-up study.
+41
+Multifactorial 10-Year Prior Diagnosis Prediction Model of Dementia.
+42
+Natural Language Processing as an Emerging Tool to Detect Late-Life Depression.
+43
+A Comparative Analysis of Machine Learning Algorithms to Predict Alzheimer's 
+Disease.
+44
+Current Trends of Computational Tools in Geriatric Medicine and Frailty 
+Management.
+45
+Identification of marker genes in Alzheimer's disease using a machine-learning 
+model.
+46
+A Machine Learning Approach for Walking Classification in Elderly People with 
+Gait Disorders.
+47
+Artificial Intelligence: An Interprofessional Perspective on Implications for 
+Geriatric Mental Health Research and Care.
+48
+Improving Machine Learning 30-Day Mortality Prediction by Discounting Surprising 
+Deaths.
+49
+Predicting Depression Among Community Residing Older Adults: A Use of Machine 
+Learning Approch.
+50
+Eigenbehaviour as an Indicator of Cognitive Abilities.
+51
+Cardiovascular risk prediction in healthy older people.
+52
+Development of a Suicide Prediction Model for the Elderly Using Health Screening 
+Data.
+53
+Dementia medical screening using mobile applications: A systematic review with a 
+new mapping model.
+54
+Risk factors and machine learning model for predicting hospitalization outcomes 
+in geriatric patients with dementia.
+55
+Public Discourse and Sentiment Toward Dementia on Chinese Social Media: Machine 
+Learning Analysis of Weibo Posts.
+56
+Development of a depression in Parkinson's disease prediction model using 
+machine learning.
+57
+Validity of three risk prediction models for dementia or cognitive impairment in 
+Australia.
+58
+Multimodal brain age estimates relate to Alzheimer disease biomarkers and 
+cognition in early stages: a cross-sectional observational study.
+59
+Predicting depression among rural and urban disabled elderly in China using a 
+random forest classifier.
+60
+Do Words Matter? Detecting Social Isolation and Loneliness in Older Adults Using 
+Natural Language Processing.
+61
+Diagnostic Model of Alzheimer's Disease in the Elderly Based on Protein and 
+Metabolic Biomarkers.
+62
+Machine-learning prediction for hospital length of stay using a French 
+medico-administrative database.
+63
+Using Machine Learning to Predict Cognitive Impairment Among Middle-Aged and 
+Older Chinese: A Longitudinal Study.
+64
+Medical Health Records-Based Mild Cognitive Impairment (MCI) Prediction for 
+Effective Dementia Care.
+65
+Potential Ocular Biomarkers for Early Detection of Alzheimer's Disease and Their 
+Roles in Artificial Intelligence Studies.
+66
+Developing a machine learning model to identify delirium risk in geriatric 
+internal medicine inpatients.
+67
+Improved Alzheimer's Disease Detection by MRI Using Multimodal Machine Learning 
+Algorithms.
+68
+What influences individual perception of health? Using machine learning to 
+disentangle self-perceived health.
+69
+Internet of Things and Machine Learning for Healthy Ageing: Identifying the 
+Early Signs of Dementia.
+70
+Research on nonstroke dementia screening and cognitive function prediction model 
+for older people based on brain atrophy characteristics.
+71
+A Novel Approach Utilizing Machine Learning for the Early Diagnosis of 
+Alzheimer's Disease.
+72
+Machine learning approach for early onset dementia neurobiomarker using EEG 
+network topology features.
+73
+Dementia detection from brain activity during sleep.
+74
+Comparison of Regression and Machine Learning Methods in Depression Forecasting 
+Among Home-Based Elderly Chinese: A Community Based Study.
+75
+Machine Learning-Based Prediction of Functional Disability: a Cohort Study of 
+Japanese Older Adults in 2013-2019.
+76
+Hippocampal atrophy based Alzheimer's disease diagnosis via machine learning 
+methods.
+77
+Predicting Future Mobility Limitation in Older Adults: A Machine Learning 
+Analysis of Health ABC Study Data.
+78
+Developing Machine Learning Algorithms for the Prediction of Early Death in 
+Elderly Cancer Patients: Usability Study.
+79
+Machine Learning Analysis Reveals Novel Neuroimaging and Clinical Signatures of 
+Frailty in HIV.
+80
+Effects of medical and non-medical cannabis use in older adults: protocol for a 
+scoping review.
+81
+Comparison of machine learning approaches for enhancing Alzheimer's disease 
+classification.
+82
+Forecasting call and chat volumes at online helplines for mental health.
+83
+Identifying the presence and severity of dementia by applying interpretable 
+machine learning techniques on structured clinical records.
+84
+Stack Ensemble Oriented Parkinson Disease Prediction Using Machine Learning 
+Approaches Utilizing GridSearchCV-Based Hyper Parameter Tuning.
+85
+Application of machine learning techniques for dementia severity prediction from 
+psychometric tests in the elderly population.
+86
+Explainable Machine Learning Model to Predict COVID-19 Severity Among Older 
+Adults in the Province of Quebec.
+87
+Melancholia defined with the precision of a machine.
+88
+Neurotechnology and AI Approach for Early Dementia Onset Biomarker from EEG in 
+Emotional Stimulus Evaluation Task.
+89
+CERAD-NAB and flexible battery based neuropsychological differentiation of 
+Alzheimer's dementia and depression using machine learning approaches.
+90
+A Machine Learning Approach to Identifying Placebo Responders in Late-Life 
+Depression Trials.
+91
+An Intelligent Learning System for Unbiased Prediction of Dementia Based on 
+Autoencoder and Adaboost Ensemble Learning.
+92
+Machine learning-assisted screening for cognitive impairment in the emergency 
+department.
+93
+Outdoor life in dementia: How predictable are people with dementia in their 
+mobility?
+94
+Using Unsupervised Machine Learning to Identify Subgroups Among Home Health 
+Patients With Heart Failure Using Telehealth.
+95
+Individual prediction and classification of cognitive impairment in patients 
+with white matter lesions based on gray matter volume.
+96
+Machine learning-based algorithms to predict severe psychological distress among 
+cancer patients with spinal metastatic disease.
+97
+The DynAIRx Project Protocol: Artificial Intelligence for dynamic prescribing 
+optimisation and care integration in multimorbidity.
+98
+Estimating the Prevalence of Dementia in India Using a Semi-Supervised Machine 
+Learning Approach.
+99
+Individualized prediction of depressive disorder in the elderly: A multitask 
+deep learning approach.
+100
+Using machine learning to improve diagnostic assessment of ASD in the light of 
+specific differential and co-occurring diagnoses.
+101
+Machine learning for predicting neurodegenerative diseases in the general older 
+population: a cohort study.
+102
+Using CatBoost algorithm to identify middle-aged and elderly depression, 
+national health and nutrition examination survey 2011-2018.
+103
+Sleep EEG-Based Approach to Detect Mild Cognitive Impairment.
+104
+Diagnosis of Dementia by Machine learning methods in Epidemiological studies: a 
+pilot exploratory study from south India.
+105
+Brain amyloid and the transition to dementia in Down syndrome.
+106
+Uncovering heterogeneous associations of disaster-related traumatic experiences 
+with subsequent mental health problems: A machine learning approach.
+107
+Using the NANA toolkit at home to predict older adults' future depression.
+108
+Analysis of Factors Affecting Depression in Older Adults in South Korea.
+109
+Machine Learning Models Reveal the Importance of Clinical Biomarkers for the 
+Diagnosis of Alzheimer's Disease.
+110
+Predictors of Improvements in Mental Health From Mindfulness Meditation in 
+Stressed Older Adults.
+111
+Machine Learning Algorithm Using Electronic Chart-Derived Data to Predict 
+Delirium After Elderly Hip Fracture Surgeries: A Retrospective Case-Control 
+Study.
+112
+Big health data for elderly employees job performance of SOEs: visionary and 
+enticing challenges.
+113
+A classification algorithm to predict chronic pain using both regression and 
+machine learning - A stepwise approach.
+114
+Predicting amyloid-beta pathology in the general population.
+115
+Toward Sensor-Based Early Diagnosis of Cognitive Impairment using Poisson 
+Process Models.
+116
+Neuropsychological test selection for cognitive impairment classification: A 
+machine learning approach.
+117
+Estimation of the epidemiology of dementia and associated neuropsychiatric 
+symptoms by applying machine learning to real-world data.
+118
+Development and Structure of an Accurate Machine Learning Algorithm to Predict 
+Inpatient Mortality and Hospice Outcomes in the Coronavirus Disease 2019 Era.
+119
+Alzheimer's Disease Detection Through Whole-Brain 3D-CNN MRI.
+120
+A Study of Dementia Prediction Models Based on Machine Learning with Survey Data 
+of Community-Dwelling Elderly People in China.
+121
+Passive digital markers for Alzheimer's disease and other related dementias: A 
+systematic evidence review.
+122
+A Comparison of Deep Learning Techniques for Arterial Blood Pressure Prediction.
+123
+Predicting persistent depressive symptoms in older adults: A machine learning 
+approach to personalised mental healthcare.
+124
+Predictors of attrition in a longitudinal population-based study of aging.
+125
+Wearable multimodal sensors for the detection of behavioral and psychological 
+symptoms of dementia using personalized machine learning models.
+126
+Using Hypothesis-Led Machine Learning and Hierarchical Cluster Analysis to 
+Identify Disease Pathways Prior to Dementia: Longitudinal Cohort Study.
+127
+Detection of Talking in Respiratory Signals: A Feasibility Study Using Machine 
+Learning and Wearable Textile-Based Sensors.
+128
+Associations Between Substance Use and Instagram Participation to Inform Social 
+Network-Based Screening Models: Multimodal Cross-Sectional Study.
+129
+Social Reminiscence in Older Adults' Everyday Conversations: Automated Detection 
+Using Natural Language Processing and Machine Learning.
+130
+Cardiometabolic risk factors associated with brain age and accelerate brain 
+ageing.
+131
+Development and validation of new screening tool for predicting dementia risk in 
+community-dwelling older Japanese adults.
+132
+Identifying High-Need Primary Care Patients Using Nursing Knowledge and Machine 
+Learning Methods.
+133
+A dynamic decision model for diagnosis of dementia, Alzheimer's disease and Mild 
+Cognitive Impairment.
+134
+Modeling Users' Cognitive Performance Using Digital Pen Features.
+135
+A review on omics-based biomarkers discovery for Alzheimer's disease from the 
+bioinformatics perspectives: Statistical approach vs machine learning approach.
+136
+Estimation of the epidemiology of dementia and associated neuropsychiatric 
+symptoms by applying machine learning to real-world data.
+137
+Prediction of depressive symptoms onset and long-term trajectories in home-based 
+older adults using machine learning techniques.
+138
+TraMiner: Vision-Based Analysis of Locomotion Traces for Cognitive Assessment in 
+Smart-Homes.
+139
+Machine learning models of plasma proteomic data predict mood in chronic stroke 
+and tie it to aberrant peripheral immune responses.
+140
+Boosting Delirium Identification Accuracy With Sentiment-Based Natural Language 
+Processing: Mixed Methods Study.
+141
+Smart-Data-Driven System for Alzheimer Disease Detection through 
+Electroencephalographic Signals.
+142
+Machine learning-based predictive models for the occurrence of behavioral and 
+psychological symptoms of dementia: model development and validation.
+143
+Application of novel hybrid machine learning systems and radiomics features for 
+non-motor outcome prediction in Parkinson's disease.
+144
+Development and validation of the Chinese Geriatric Depression Risk calculator 
+(CGD-risk): A screening tool to identify elderly Chinese with depression.
+145
+Alzheimer's Disease Detection Using Comprehensive Analysis of Timed Up and Go 
+Test via Kinect V.2 Camera and Machine Learning.
+146
+Predicting restriction of life-space mobility: a machine learning analysis of 
+the IMIAS study.
+147
+Simple action for depression detection: using kinect-recorded human kinematic 
+skeletal data.
+148
+Prognosis of Alzheimer's Disease Using Quantitative Mass Spectrometry of Human 
+Blood Plasma Proteins and Machine Learning.
+149
+Generational differences in loneliness and its psychological and 
+sociodemographic predictors: an exploratory and confirmatory machine learning 
+study.
+150
+Identification of Suicide Attempt Risk Factors in a National US Survey Using 
+Machine Learning.
+151
+Machine Learning to Develop and Internally Validate a Predictive Model for 
+Post-operative Delirium in a Prospective, Observational Clinical Cohort Study of 
+Older Surgical Patients.
+152
+Assessing the Current State of Cognitive Frailty: Measurement Properties.
+153
+DOI: 10.1007/s12603-016-0735-9
+PMID: 28112769 [Indexed for MEDLINE]
+154
+Suicide Among Older Adults Living in or Transitioning to Residential Long-term 
+Care, 2003 to 2015.
+155
+Factors Associated with American Indian Mental Health Service Use in Comparison 
+with White Older Adults.
+156
+Hierarchical and nested associations of suicide with marriage, social support, 
+quality of life, and depression among the elderly in rural China: Machine 
+learning of psychological autopsy data.
+157
+Adhering to COVID-19 health guidelines: Examining demographic and psychological 
+predictors of adherence.
+158
+Automated Classification of Normal Control and Early-Stage Dementia Based on 
+Activities of Daily Living (ADL) Data Acquired from Smart Home Environment.
+159
+Brain-age is associated with progression to dementia in memory clinic patients.
+160
+Automatic diagnosis of late-life depression by 3D convolutional neural networks 
+and cross-sample Entropy analysis from resting-state fMRI.
+161
+Inequities in Mental Health Care Facing Racialized Immigrant Older Adults With 
+Mental Disorders Despite Universal Coverage: A Population-Based Study in Canada.
+162
+A dominant set-informed interpretable fuzzy system for automated diagnosis of 
+dementia.
+163
+Characteristics of Drawing Process Differentiate Alzheimer's Disease and 
+Dementia with Lewy Bodies.
+164
+Early Prediction of Dementia Using Feature Extraction Battery (FEB) and 
+Optimized Support Vector Machine (SVM) for Classification.
+165
+Data-driven discovery of probable Alzheimer's disease and related dementia 
+subphenotypes using electronic health records.
+166
+Associating persistent self-reported cognitive decline with neurocognitive 
+decline in older breast cancer survivors using machine learning: The Thinking 
+and Living with Cancer study.
+167
+The Influence of Social Support on the Mental Health of Elderly Individuals in 
+Healthy Communities with the Framework of Mental Toughness.
+168
+Addressing Mild Cognitive Impairment and Boosting Wellness for the Elderly 
+through Personalized Remote Monitoring.
+169
+Dementia Digital Neuro-biomarker Study from Theta-band EEG Fluctuation Analysis 
+in Facial and Emotional Identification Short-term Memory Oddball Paradigm.
+170
+Development and validation of an automated HIV prediction algorithm to identify 
+candidates for pre-exposure prophylaxis: a modelling study.
+171
+Exploring the most important factors related to self-perceived health among 
+older men in Sweden: a cross-sectional study using machine learning.
+172
+Deep learning-based predictions of older adults' adherence to cognitive training 
+to support training efficacy.
+173
+Identifying Individuals Who Currently Report Feelings of Anxiety Using Walking 
+Gait and Quiet Balance: An Exploratory Study Using Machine Learning.
+174
+Depression management interests among Alaska Native and American Indian adults 
+in primary care.
+175
+AI-Assisted In-House Power Monitoring for the Detection of Cognitive Impairment 
+in Older Adults.
+176
+Methamphetamine use among American Indians and Alaska Natives in the United 
+States.
+177
+Examining spoken words and acoustic features of therapy sessions to understand 
+family caregivers' anxiety and quality of life.
+178
+Automated Cognitive Health Assessment Based on Daily Life Functional Activities.
+179
+Depression Prediction by Using Ecological Momentary Assessment, Actiwatch Data, 
+and Machine Learning: Observational Study on Older Adults Living Alone.
+180
+Predicting Amyloid Positivity in Cognitively Unimpaired Older Adults: A Machine 
+Learning Approach Using A4 Data.
+181
+Measuring neuropsychiatric symptoms in patients with early cognitive decline 
+using speech analysis.
+182
+Gender-Based Analysis of Risk Factors for Dementia Using Senior Cohort.
+183
+Development of Internet suicide message identification and the 
+Monitoring-Tracking-Rescuing model in Taiwan.
+184
+Smart Home Sensing and Monitoring in Households With Dementia: User-Centered 
+Design Approach.
+185
+A Machine Learning Approach for Investigating Delirium as a Multifactorial 
+Syndrome.
+186
+Digital Biomarkers for the Early Detection of Mild Cognitive Impairment: 
+Artificial Intelligence Meets Virtual Reality.
+187
+Relative importance of symptoms, cognition, and other multilevel variables for 
+psychiatric disease classifications by machine learning.
+188
+Proportional Changes in Cognitive Subdomains During Normal Brain Aging.
+189
+Identifying depression in the United States veterans using deep learning 
+algorithms, NHANES 2005-2018.
+190
+Factors Associated with the Use of Meditation, U.S. Adults 2017.
+191
+Predicting the long-term cognitive trajectories using machine learning 
+approaches: A Chinese nationwide longitudinal database.
+192
+A Virtual Agent to Support Individuals Living With Physical and Mental 
+Comorbidities: Co-Design and Acceptability Testing.
+193
+Prediction of Decline in Global Cognitive Function Using Machine Learning with 
+Feature Ranking of Gait and Physical Fitness Outcomes in Older Adults.
+194
+Modifiable predictors of nonresponse to psychotherapies for late-life depression 
+with executive dysfunction: a machine learning approach.
+195
+A risk model to predict the mental health of older people in Chinese communities 
+based on machine learning.
+196
+Exploring Factors for Predicting Anxiety Disorders of the Elderly Living Alone 
+in South Korea Using Interpretable Machine Learning: A Population-Based Study.
+197
+Modifiable predictors of suicidal ideation during psychotherapy for late-life 
+major depression. A machine learning approach.
+198
+Efficient optimization based thresholding technique for analysis of alzheimer 
+MRIs.
+199
+Classification of Alzheimer's Disease and Mild Cognitive Impairment Based on 
+Cortical and Subcortical Features from MRI T1 Brain Images Utilizing Four 
+Different Types of Datasets.
+200
+One-Class Classification-Based Real-Time Activity Error Detection in Smart 
+Homes.
+201
+A model for predicting fall risks of hospitalized elderly in Taiwan-A machine 
+learning approach based on both electronic health records and comprehensive 
+geriatric assessment.
+202
+Using artificial neural networks to select the parameters for the prognostic of 
+mild cognitive impairment and dementia in elderly individuals.
+203
+Investigating Predictors of Preserved Cognitive Function in Older Women Using 
+Machine Learning: Women's Health Initiative Memory Study.
+204
+Utility of Machine Learning Approach with Neuropsychological Tests in Predicting 
+Functional Impairment of Alzheimer's Disease.
+205
+Automated voxel- and region-based analysis of gray matter and cerebrospinal 
+fluid space in primary dementia disorders.
+206
+Longitudinal Patterns of Engagement and Clinical Outcomes: Results From a 
+Therapist-Supported Digital Mental Health Intervention.
+207
+Using Naturalistic Driving Data to Predict Mild Cognitive Impairment and 
+Dementia: Preliminary Findings from the Longitudinal Research on Aging Drivers 
+(LongROAD) Study.
+208
+Detecting Apathy in Older Adults with Cognitive Disorders Using Automatic Speech 
+Analysis.
+209
+Forecasting the Suitability of Online Mental Health Information for Effective 
+Self-Care Developing Machine Learning Classifiers Using Natural Language 
+Features.
+210
+Machine learning approaches for integrating clinical and imaging features in 
+late-life depression classification and response prediction.
+211
+Separating Symptomatic Alzheimer's Disease from Depression based on Structural 
+MRI.
+212
+Automated Video Analysis of Audio-Visual Approaches to Predict and Detect Mild 
+Cognitive Impairment and Dementia in Older Adults.
+213
+Digital detection of dementia (D(3)): a study protocol for a pragmatic 
+cluster-randomized trial examining the application of patient-reported outcomes 
+and passive clinical decision support systems.
+214
+Developing a machine learning model for detecting depression, anxiety, and 
+apathy in older adults with mild cognitive impairment using speech and facial 
+expressions: A cross-sectional observational study.
+215
+A non-invasive method for prediction of neurodegenerative diseases using gait 
+signal features.
+216
+Developing Acute Event Risk Profiles for Older Adults with Dementia in Long-Term 
+Care Using Motor Behavior Clusters Derived from Deep Learning.
+217
+Artificial intelligence system, based on mjn-SERAS algorithm, for the early 
+detection of seizures in patients with refractory focal epilepsy: A 
+cross-sectional pilot study.
+218
+Prediction of Recurrence-associated Death from Localized Prostate Cancer with a 
+Charlson Comorbidity Index-reinforced Machine Learning Model.
+219
+The TAS Test project: a prospective longitudinal validation of new online 
+motor-cognitive tests to detect preclinical Alzheimer's disease and estimate 
+5-year risks of cognitive decline and dementia.
+220
+© 2022. The Author(s).
+221
+Investigating predictive factors of dialectical behavior therapy skills training 
+efficacy for alcohol and concurrent substance use disorders: A machine learning 
+study.
+222
+Prediction of depression onset risk among middle-aged and elderly adults using 
+machine learning and Canadian Longitudinal Study on Aging cohort.
+223
+Automated Smart Home Assessment to Support Pain Management: Multiple Methods 
+Analysis.
+224
+Identifying Key Predictors of Cognitive Dysfunction in Older People Using 
+Supervised Machine Learning Techniques: Observational Study.
+225
+Leading Predictors of COVID-19-Related Poor Mental Health in Adult Asian 
+Indians: An Application of Extreme Gradient Boosting and Shapley Additive 
+Explanations.
+226
+Sedentary Behavior and Incident Dementia Among Older Adults.
+227
+Comparing Pre-trained and Feature-Based Models for Prediction of Alzheimer's 
+Disease Based on Speech.
+228
+Detecting Amyloid Positivity in Elderly With Increased Risk of Cognitive 
+Decline.
+229
+Sleep Quality in an Adult American Indian Community Sample.
+230
+Predicting depressive symptoms in middle-aged and elderly adults using sleep 
+data and clinical health markers: A machine learning approach.
+231
+GPS driving: a digital biomarker for preclinical Alzheimer disease.
+232
+Detecting mild cognitive impairment and dementia in older adults using 
+naturalistic driving data and interaction-based classification from influence 
+score.
+233
+Association of blood lipids with Alzheimer's disease: A comprehensive lipidomics 
+analysis.
+234
+Diné (Navajo) Female Perspectives on Mother-Daughter Cultural Assets Around the 
+Transition to Womanhood: A Qualitative Study.
+235
+Patterns of Healthcare Use and Mortality After Alzheimer's Disease or Related 
+Dementia Diagnosis Among Alaska Native Patients: Results of a Cluster Analysis 
+in a Tribal Healthcare Setting.
+236
+Estimating Health-Related Quality of Life Based on Demographic Characteristics, 
+Questionnaires, Gait Ability, and Physical Fitness in Korean Elderly Adults.
+237
+Questionnaires for the Assessment of Cognitive Function Secondary to Intake 
+Interviews in In-Hospital Work and Development and Evaluation of a 
+Classification Model Using Acoustic Features.
+238
+Application of Machine Learning Technique to Distinguish Parkinson's Disease 
+Dementia and Alzheimer's Dementia: Predictive Power of Parkinson's 
+Disease-Related Non-Motor Symptoms and Neuropsychological Profile.
+239
+Individual differences in socioemotional sensitivity are an index of salience 
+network function.
+240
+Development of a clinical support system for identifying social frailty.
+241
+Classifying Cognitive Profiles Using Machine Learning with Privileged 
+Information in Mild Cognitive Impairment.
+242
+Corrigendum: Using Machine Learning to Predict Cognitive Impairment Among 
+Middle-Aged and Older Chinese: A Longitudinal Study.
+243
+Independent replication of advanced brain age in mild cognitive impairment and 
+dementia: detection of future cognitive dysfunction.
+244
+Effects of accelerated biological age on depressive symptoms in a causal 
+reasoning framework.
+245
+Subjective and objective sleep and circadian parameters as predictors of 
+depression-related outcomes: A machine learning approach in UK Biobank.
+246
+Chest radiograph-based artificial intelligence predictive model for mortality in 
+community-acquired pneumonia.
+247
+Hospitalization-Associated Disability After Cardiac Surgery in Elderly 
+Patients　- Exploring the Risk Factors Using Machine Learning Algorithms.
+248
+Long-term trajectories of depressive symptoms and machine learning techniques 
+for fall prediction in older adults: Evidence from the China Health and 
+Retirement Longitudinal Study (CHARLS).
+249
+Using Dual Neural Network Architecture to Detect the Risk of Dementia With 
+Community Health Data: Algorithm Development and Validation Study.
+250
+Agile Requirements Engineering and Software Planning for a Digital Health 
+Platform to Engage the Effects of Isolation Caused by Social Distancing: Case 
+Study.
+251
+Risk and Protective Factors of Current Opioid Use Among Youth Living on or Near 
+American Indian Reservations: An Application of Machine Learning.
+252
+Frailty, Comorbidity, and Associations With In-Hospital Mortality in Older 
+COVID-19 Patients: Exploratory Study of Administrative Data.
+253
+Use and Acceptance of Digital Communication Technology by Older Adults for 
+Social Connectedness During the COVID-19 Pandemic: Mixed Methods Study.
+254
+Ensemble of random forests One vs. Rest classifiers for MCI and AD prediction 
+using ANOVA cortical and subcortical feature selection and partial least 
+squares.
+255
+Aging faster: worry and rumination in late life are associated with greater 
+brain age.
+256
+Autonomous unobtrusive detection of mild cognitive impairment in older adults.
+257
+Patterns of structure-function association in normal aging and in Alzheimer's 
+disease: Screening for mild cognitive impairment and dementia with ML regression 
+and classification models.
+258
+Use of Patient-Reported Symptoms from an Online Symptom Tracking Tool for 
+Dementia Severity Staging: Development and Validation of a Machine Learning 
+Approach.
+259
+Alzheimer's Disease Microbiome Is Associated with Dysregulation of the 
+Anti-Inflammatory P-Glycoprotein Pathway.
+260
+Discriminating Heterogeneous Trajectories of Resilience and Depression After 
+Major Life Stressors Using Polygenic Scores.
+261
+Quickly identifying people at risk of opioid use disorder in emergency 
+departments: trade-offs between a machine learning approach and a simple EHR 
+flag strategy.
+262
+Temporal Irreversibility of Large-Scale Brain Dynamics in Alzheimer's Disease.
+263
+Important Correlates of Purpose in Life Identified Through a Machine Learning 
+Approach.
+264
+Prediction of Loneliness in Older Adults Using Natural Language Processing: 
+Exploring Sex Differences in Speech.
+265
+A Nonlinear Simulation Framework Supports Adjusting for Age When Analyzing 
+BrainAGE.
+266
+Touchscreen games to detect cognitive impairment in senior adults. A 
+user-interaction pilot study.
+267
+Recalibrating the epigenetic clock: implications for assessing biological age in 
+the human cortex.
+268
+Classification of Alzheimer's disease stage using machine learning for left and 
+right oxygenation difference signals in the prefrontal cortex: a patient-level, 
+single-group, diagnostic interventional trial.
+269
+Relevance of Complaint Severity in Predicting the Progression of Subjective 
+Cognitive Decline and Mild Cognitive Impairment: A Machine Learning Approach.
+270
+Stratifying risk for dementia onset using large-scale electronic health record 
+data: A retrospective cohort study.
+271
+Digital Guardian Angel Supported by an Artificial Intelligence System to Improve 
+Quality of Life, Well-being, and Health Outcomes of Patients With Cancer 
+(ONCORELIEF): Protocol for a Single Arm Prospective Multicenter Pilot Study.
+272
+Correlations Between Facial Expressivity and Apathy in Elderly People With 
+Neurocognitive Disorders: Exploratory Study.
+273
+Retinal image analytics detects white matter hyperintensities in healthy adults.
+274
+Predicting Serum Levels of Lithium-Treated Patients: A Supervised Machine 
+Learning Approach.
+275
+Public Opinions on Using Social Media Content to Identify Users With Depression 
+and Target Mental Health Care Advertising: Mixed Methods Survey.
+276
+Problematic internet use as an age-related multifaceted problem: Evidence from a 
+two-site survey.
+277
+Machine learning-augmented objective functional testing in the degenerative 
+spine: quantifying impairment using patient-specific five-repetition 
+sit-to-stand assessment.
+278
+Functional connectivity of white matter as a biomarker of cognitive decline in 
+Alzheimer's disease.
+279
+Decision Tree for Early Detection of Cognitive Impairment by Community 
+Pharmacists.
+280
+A new tool for the evaluation of the rehabilitation outcomes in older persons: a 
+machine learning model to predict functional status 1 year ahead.
+281
+Personalized screening and risk profiles for Mild Cognitive Impairment via a 
+Machine Learning Framework: Implications for general practice.
+282
+Identification of a 6-RBP gene signature for a comprehensive analysis of glioma 
+and ischemic stroke: Cognitive impairment and aging-related hypoxic stress.
+283
+Diagnosing attention-deficit hyperactivity disorder (ADHD) using artificial 
+intelligence: a clinical study in the UK.
+284
+Identification of High Likelihood of Dementia in Population-Based Surveys using 
+Unsupervised Clustering: a Longitudinal Analysis.
+285
+A machine-learning algorithm for predicting brain age using Rey-Osterrieth 
+complex figure tests of healthy participants.
+286
+Natural Language Processing for the Identification of Silent Brain Infarcts From 
+Neuroimaging Reports.
+287
+Illness and intelligence are comparatively strong predictors of individual 
+differences in depressive symptoms following middle age.
+288
+Patient Determinants for Histologic Diagnosis of NAFLD in the Real World: A 
+TARGET-NASH Study.
+289
+Computer-Aided Diagnosis of Alzheimer's Disease through Weak Supervision Deep 
+Learning Framework with Attention Mechanism.
+290
+Multiscale structural mapping of Alzheimer's disease neurodegeneration.
+291
+Can Machines Find the Bilingual Advantage? Machine Learning Algorithms Find No 
+Evidence to Differentiate Between Lifelong Bilingual and Monolingual Cognitive 
+Profiles.
+292
+Estimating causal effects of physical disability and number of comorbid chronic 
+diseases on risk of depressive symptoms in an elderly Chinese population: a 
+machine learning analysis of cross-sectional baseline data from the China 
+longitudinal ageing social survey.
+293
+The stage-specifically accelerated brain aging in never-treated first-episode 
+patients with depression.
+294
+Development of a Conceptual Framework for Severe Self-Neglect (SN) by Modifying 
+the CREST Model for Self-Neglect.
+295
+Identifying sex-specific risk architectures for predicting amyloid deposition 
+using neural networks.
+296
+Circulating Plasma Metabolites and Cognitive Function in a Puerto Rican Cohort.
+297
+The Developmental Brain Age Is Associated With Adversity, Depression, and 
+Functional Outcomes Among Adolescents.
+298
+Classifying Mild Cognitive Impairment from Behavioral Responses in Emotional 
+Arousal and Valence Evaluation Task - AI Approach for Early Dementia Biomarker 
+in Aging Societies.
+299
+Demographic Predictors of Dropping Out of Treatment (DOT) in Substance Use 
+Disorder Treatment.
+300
+The Development of a Suicidal Ideation Predictive Model for Community-Dwelling 
+Elderly Aged >55 Years.
+301
+Predicting opioid use disorder before and after the opioid prescribing peak in 
+the United States: A machine learning tool using electronic healthcare records.
+302
+Older Adult Mild Cognitive Impairment Prediction from Multiscale Entropy EEG 
+Patterns in Reminiscent Interior Image Working Memory Paradigm.
+303
+A Machine Learning Approach to Design an Efficient Selective Screening of Mild 
+Cognitive Impairment.
+304
+Fully Automatic Speech-Based Analysis of the Semantic Verbal Fluency Task.
+305
+Epidemiological pathology of Aβ deposition in the ageing brain in CFAS: addition 
+of multiple Aβ-derived measures does not improve dementia assessment using 
+logistic regression and machine learning approaches.
+306
+A new strategy for the early detection of alzheimer disease stages using 
+multifractal geometry analysis based on K-Nearest Neighbor algorithm.
+307
+ADscreen: A speech processing-based screening system for automatic 
+identification of patients with Alzheimer's disease and related dementia.
+308
+Applying Automated MR-Based Diagnostic Methods to the Memory Clinic: A 
+Prospective Study.
+309
+Predictors of Adolescents' First Episode of Homelessness Following Substance Use 
+Treatment.
+310
+The Value of Handgrip Strength and Self-Rated Squat Ability in Predicting Mild 
+Cognitive Impairment: Development and Validation of a Prediction Model.
+311
+Classification of elderly pain severity from automated video clip facial action 
+unit analysis: A study from a Thai data repository.
+312
+[Keyword Network Analysis and Topic Modeling of News Articles Related to 
+Artificial Intelligence and Nursing].
+313
+Identifying the suicidal ideation risk group among older adults in rural areas: 
+Developing a predictive model using machine learning methods.
+314
+Pain Expressions in Dementia: Validity of Observers' Pain Judgments as a 
+Function of Angle of Observation.
+315
+Episodix: a serious game to detect cognitive impairment in senior adults. A 
+psychometric study.
+316
+Personalized prediction of antidepressant v. placebo response: evidence from the 
+EMBARC study.
+317
+Language patterns in Japanese patients with Alzheimer disease: A machine 
+learning approach.
+318
+Investigating the power of eyes open resting state EEG for assisting in dementia 
+diagnosis.
+319
+ARTS: A novel In-vivo classifier of arteriolosclerosis for the older adult 
+brain.
+320
+Heterogeneity in cognitive disability after a major disaster: A natural 
+experiment study.
+321
+Cognitive Phenotypes of Older Adults with Subjective Cognitive Decline and 
+Amnestic Mild Cognitive Impairment: The Czech Brain Aging Study.
+322
+Psychotropic Medication Use Is Associated With Greater 1-Year Incidence of 
+Dementia After COVID-19 Hospitalization.
+323
+Improving predictive models for Alzheimer's disease using GWAS data by 
+incorporating misclassified samples modeling.
+324
+The Effect of Individual Musculoskeletal Conditions on Depression: Updated 
+Insights From an Irish Longitudinal Study on Aging.
+325
+Identifying treatment effects of an informal caregiver education intervention to 
+increase days in the community and decrease caregiver distress: a 
+machine-learning secondary analysis of subgroup effects in the HI-FIVES 
+randomized clinical trial.
+326
+A robust brain signature region approach for episodic memory performance in 
+older adults.
+327
+LC-MS/MS Insight into Vitamin C Restoration to Metabolic Disorder Evoked by 
+Amyloid β in Caenorhabditis elegans CL2006.
+328
+Automatic detection of cognitive impairment in elderly people using an 
+entertainment chatbot with Natural Language Processing capabilities.
+329
+Predictors of Patient Satisfaction Following Primary Total Knee Arthroplasty: 
+Results from a Traditional Statistical Model and a Machine Learning Algorithm.
+330
+Detecting changes in help seeker conversations on a suicide prevention helpline 
+during the COVID- 19 pandemic: in-depth analysis using encoder representations 
+from transformers.
+331
+Deep transfer learning of structural magnetic resonance imaging fused with blood 
+parameters improves brain age prediction.
+332
+Validation of the Salzburg Dementia Test Prediction (SDTP) as a Cognitive 
+Screening Tool in an English-Speaking Inpatient Medical Setting.
+333
+Epidemiological trends in opioid-only and opioid/polysubstance-related death 
+rates among American Indian/Alaska Native populations from 1999 to 2019: a 
+retrospective longitudinal ecological study.
+334
+What Factors Are Most Closely Associated With Mood Disorders in Adolescents 
+During the COVID-19 Pandemic? A Cross-Sectional Study Based on 1,771 Adolescents 
+in Shandong Province, China.
+335
+Equity in AgeTech for Ageing Well in Technology-Driven Places: The Role of 
+Social Determinants in Designing AI-based Assistive Technologies.
+336
+Characterizing subgroup performance of probabilistic phenotype algorithms within 
+older adults: a case study for dementia, mild cognitive impairment, and 
+Alzheimer's and Parkinson's diseases.
+337
+Prediction of brain age suggests accelerated atrophy after traumatic brain 
+injury.
+338
+Polypharmacy in an Elderly Population: Enhancing Medication Management Through 
+the Use of Clinical Decision Support Software Platforms.
+339
+The Use of Data Mining Methods for the Prediction of Dementia: Evidence From the 
+English Longitudinal Study of Aging.
+340
+Development of a simple screening tool for determining cognitive status in 
+Alzheimer's disease.
+341
+Demonstration of automated non-adherence and service disengagement risk 
+monitoring with active follow-up for severe mental illness.
+342
+Validation study of "Santé-Cerveau", a digital tool for early cognitive changes 
+identification.
+343
+Sum of boxes of the clinical dementia rating scale highly predicts conversion or 
+reversion in predementia stages.
+344
+Factors associated with fall risk of community-dwelling older people: A decision 
+tree analysis.
+345
+Adult onset epilepsy is defined by phenotypic clusters with unique comorbidities 
+and risks of death.
+346
+Validation of accuracy of SVM-based fall detection system using real-world fall 
+and non-fall datasets.
+347
+Development and validation of coding algorithms to identify patients with 
+incident lung cancer in United States healthcare claims data.
+348
+Feasibility of Using a Wearable Biosensor Device in Patients at Risk for 
+Alzheimer's Disease Dementia.
+349
+Understanding secondary students' continuance intention to adopt AI-powered 
+intelligent tutoring system for English learning.
+350
+A Night-Time Monitoring System (eNightLog) to Prevent Elderly Wandering in 
+Hostels: A Three-Month Field Study.
+351
+Right hemispheric white matter hyperintensities improve the prediction of 
+spatial neglect severity in acute stroke.
+352
+Development and internal validation of a predictive model of cognitive decline 
+36 months following elective surgery.
+353
+Use of Speech Analyses within a Mobile Application for the Assessment of 
+Cognitive Impairment in Elderly People.
+354
+Identifying socio-demographic and clinical characteristics associated with 
+medication beliefs about aromatase inhibitors among postmenopausal women with 
+breast cancer.
+355
+Predicting Short-Term Mortality in Older Patients Discharged from Acute 
+Hospitalizations Lasting Less Than 24 Hours.
+356
+Examining protective and buffering associations between sociocultural factors 
+and adverse childhood experiences among American Indian adults with type 2 
+diabetes: a quantitative, community-based participatory research approach.
+357
+Predicting HCV Incidence in Latinos with High-Risk Substance Use: A Data Science 
+Approach.
+358
+A Cocktail of Polyherbal Bioactive Compounds and Regular Mobility Training as 
+Senolytic Approaches in Age-dependent Alzheimer's: the In Silico Analysis, 
+Lifestyle Intervention in Old Age.
+359
+A decision-support framework for promoting independent living and ageing well.
+360
+Questionnaire-Based Survey during COVID-19 Vaccination on the Prevalence of 
+Elderly's Migraine, Chronic Daily Headache, and Medication-Overuse Headache in 
+One Japanese City-Itoigawa Hisui Study.
+361
+Exploring Older Adults' Beliefs About the Use of Intelligent Assistants for 
+Consumer Health Information Management: A Participatory Design Study.
+362
+A Data Science Approach to Estimating the Frequency of Driving Cessation 
+Associated Suicide in the US: Evidence From the National Violent Death Reporting 
+System.
+363
+Increasing access to cognitive screening in the elderly: Applying natural 
+language processing methods to speech collected over the telephone.
+364
+Development of a Prediction Model for Antibiotic-Resistant Urinary Tract 
+Infections Using Integrated Electronic Health Records from Multiple Clinics in 
+North-Central Florida.
+365
+Transcranial Magnetic Stimulation Indices of Cortical Excitability Enhance the 
+Prediction of Response to Pharmacotherapy in Late-Life Depression.
+366
+Risk Factors and Predictive Modeling for Post-Acute Sequelae of SARS-CoV-2 
+Infection: Findings from EHR Cohorts of the RECOVER Initiative.
+367
+Development and evaluation of a risk algorithm predicting alcohol dependence 
+after early onset of regular alcohol use.
+368
+Pre-training and ensembling based Alzheimer's disease detection.
+369
+A Personal Health System for Self-Management of Congestive Heart Failure 
+(HeartMan): Development, Technical Evaluation, and Proof-of-Concept Randomized 
+Controlled Trial.
+370
+Differentiating Alzheimer's Disease from Dementia with Lewy Bodies Using a Deep 
+Learning Technique Based on Structural Brain Connectivity.
+371
+Automated Analysis of Drawing Process to Estimate Global Cognition in Older 
+Adults: Preliminary International Validation on the US and Japan Data Sets.
+372
+Dynamics of the "Cognitive" Brain Wave P3b at Rest for Alzheimer Dementia 
+Prediction in Mild Cognitive Impairment.
+373
+Biomarkers and Risk Assessment of Alzheimer's Disease in Low- and Middle-Income 
+Countries.
+374
+Lower Dorsal Lateral Prefrontal Cortex Functional Connectivity in Late-Life 
+Depression With Suicidal Ideation.
+375
+Risk stratification models for predicting preventable hospitalization in 
+commercially insured late middle-aged adults with depression.
+376
+Alzheimer resemblance atrophy index, BrainAGE, and normal pressure hydrocephalus 
+score in the prediction of subtle cognitive decline: added value compared to 
+existing MR imaging markers.
+377
+Using Speech Data From Interactions With a Voice Assistant to Predict the Risk 
+of Future Accidents for Older Drivers: Prospective Cohort Study.
+378
+Association of comorbid-socioeconomic clusters with mortality in late onset 
+epilepsy derived through unsupervised machine learning.
+379
+Downregulated transferrin receptor in the blood predicts recurrent MDD in the 
+elderly cohort: A fuzzy forests approach.
+380
+Brain structure and phenotypic profile of superagers compared with age-matched 
+older adults: a longitudinal analysis from the Vallecas Project.
+381
+Distributed functional connectivity predicts neuropsychological test performance 
+among older adults.
+382
+Ensemble based on static classifier selection for automated diagnosis of Mild 
+Cognitive Impairment.
+383
+Bioinformatics investigation on blood-based gene expressions of Alzheimer's 
+disease revealed ORAI2 gene biomarker susceptibility: An explainable artificial 
+intelligence-based approach.
+384
+Modeling Large Sparse Data for Feature Selection: Hospital Admission Predictions 
+of the Dementia Patients Using Primary Care Electronic Health Records.
+385
+Screening over Speech in Unselected Populations for Clinical Trials in AD 
+(PROSPECT-AD): Study Design and Protocol.
+386
+Automated profiling of spontaneous speech in primary progressive aphasia and 
+behavioral-variant frontotemporal dementia: An approach based on 
+usage-frequency.
+387
+A comparison of resting state EEG and structural MRI for classifying Alzheimer's 
+disease and mild cognitive impairment.
+388
+Automated Video Analysis of Handwashing Behavior as a Potential Marker of 
+Cognitive Health in Older Adults.
+389
+Automatic speech analysis for the assessment of patients with predementia and 
+Alzheimer's disease.
+390
+Data-driven decision making for the screening of cognitive impairment in primary 
+care: a machine learning approach using data from the ELSA-Brasil study.
+391
+False Atrial Fibrillation Alerts from Smartwatches are Associated with Decreased 
+Perceived Physical Well-being and Confidence in Chronic Symptoms Management.
+392
+Differentiating Patients at the Memory Clinic With Simple Reaction Time 
+Variables: A Predictive Modeling Approach Using Support Vector Machines and 
+Bayesian Optimization.
+393
+Reduction of Time on the Ground Related to Real-Time Video Detection of Falls in 
+Memory Care Facilities: Observational Study.
+394
+Changes in glial cell phenotypes precede overt neurofibrillary tangle formation, 
+correlate with markers of cortical cell damage, and predict cognitive status of 
+individuals at Braak III-IV stages.
+395
+Using Conditional Inference Forests to Examine Predictive Ability for Future 
+Falls and Syncope in Older Adults: Results from The Irish Longitudinal Study on 
+Ageing.
+396
+Using home monitoring technology to study the effects of traumatic brain injury 
+on older multimorbid adults: protocol for a feasibility study.
+397
+Assessing the contributions of modifiable risk factors to serious falls and 
+fragility fractures among older persons living with HIV.
+398
+[The application scenarios study on the intervention of cognitive decline in 
+elderly population using metaverse technology].
+399
+Developing a Predictive Model for Depressive Disorders Using Stacking Ensemble 
+and Naive Bayesian Nomogram: Using Samples Representing South Korea.
+400
+Efficacy of a Web App for Cognitive Training (MeMo) Regarding Cognitive and 
+Behavioral Performance in People With Neurocognitive Disorders: Randomized 
+Controlled Trial.
+401
+A research proposal testing a new model of ambulation activity among long-term 
+care residents with dementia/cognitive impairment: the study protocol of a 
+prospective longitudinal natural history study.
+402
+WTD-PSD: Presentation of Novel Feature Extraction Method Based on Discrete 
+Wavelet Transformation and Time-Dependent Power Spectrum Descriptors for 
+Diagnosis of Alzheimer's Disease.
+403
+Multimorbidity states associated with higher mortality rates in organ 
+dysfunction and sepsis: a data-driven analysis in critical care.
+404
+Spouse-Appraised Memory Functioning Predicts Memory Decline Better Than 
+Subjective Memory Complaints in Community Dwelling Older Adults at Genetic Risk 
+for Alzheimer's Disease.
+405
+Does the SORG Orthopaedic Research Group Hip Fracture Delirium Algorithm Perform 
+Well on an Independent Intercontinental Cohort of Patients With Hip Fractures 
+Who Are 60 Years or Older?
+406
+Barriers to methamphetamine treatment seeking in residential centers in 
+Aguascalientes, Mexico.
+407
